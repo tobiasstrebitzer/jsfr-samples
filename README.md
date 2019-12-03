@@ -2,6 +2,8 @@
 
 Javascript Function Repository Example
 
+[![asciicast](https://asciinema.org/a/l9lnYHdLjzZ6g2Oay8vzlx5Np.svg)](https://asciinema.org/a/l9lnYHdLjzZ6g2Oay8vzlx5Np)
+
 ## Installation
 
 `npm install`
